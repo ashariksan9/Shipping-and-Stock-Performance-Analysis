@@ -110,27 +110,27 @@ This project answers key business questions:
 
 ## 🔍 Answer to the business question
 
-1️⃣ **How Efficient is the Shipping Process?**
+**1. How Efficient is the Shipping Process?**
 
 ✅ **65.04% of orders are shipped**, but only **35.16% reach the customer**, indicating constraints in the final stages of delivery.  
 
-2️⃣ **What is the Average Delivery Time? **
+**2. What is the Average Delivery Time? **
 
 ✅ Average **3.48 days**, majority within **3-4 days**, however there are delays up to **6-7 days**.  
 
-3️⃣ **How Many Orders are Shipped, Accepted, Canceled and Returned?**  
+**3. How Many Orders are Shipped, Accepted, Canceled and Returned?**  
 
 ✅ **3,567 shipped**, **3,010 received**, **1,814 canceled**, and **1,186 returned**, indicating stock issues.  
 
-4️⃣ **Is There a Problem in Stock Management?**  
+**4. Is There a Problem in Stock Management?**  
 
 ✅ **34.96% of orders were not delivered**, indicating stock mismatches or restocking delays.  
 
-5️⃣ **How is the Distribution of Goods per Order?**  
+**5. How is the Distribution of Goods per Order?**  
 
 ✅ The majority of orders contain only **one item**, opening up **upselling & cross-selling** opportunities.  
 
-6️⃣ **Does Delivery Time Differ Based on Order Status?**  
+**6. Does Delivery Time Differ Based on Order Status?**  
 
 ✅ **"Complete"** and **"Shipped"** orders are faster than **"Processing"**, **"Cancelled"**, and **"Returned”**.  
 
@@ -167,6 +167,4 @@ Our analysis reveals that while shipping processes are functional, significant i
 📧 Email: ashar4iksan@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/muhammadasharihsan
-
-# 🔥 Ready to unlock business insights? Let’s dive into data-driven decision-making! 🚀
 
