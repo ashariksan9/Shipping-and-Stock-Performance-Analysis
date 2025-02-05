@@ -38,17 +38,17 @@ How efficient is the current shipping process, and what optimizations can be mad
 
 This project answers key business questions:
 
-1️⃣ How efficient is the shipping process? (Analyzing order fulfillment rates and shipping delays.)
+1. How efficient is the shipping process? (Analyzing order fulfillment rates and shipping delays.)
 
-2️⃣ What is the average shipping time from order creation to delivery? (Using descriptive statistics to calculate time differences.)
+2. What is the average shipping time from order creation to delivery? (Using descriptive statistics to calculate time differences.)
 
-3️⃣ What percentage of orders are successfully delivered compared to cancellations? (Visualizing order status distributions.)
+3. What percentage of orders are successfully delivered compared to cancellations? (Visualizing order status distributions.)
 
-4️⃣ Are there indications of stock mismanagement? (Examining undelivered orders as a potential inventory issue.)
+4. Are there indications of stock mismanagement? (Examining undelivered orders as a potential inventory issue.)
 
-5️⃣ How is the distribution of items per order? (Identifying customer purchasing behavior.)
+5. How is the distribution of items per order? (Identifying customer purchasing behavior.)
 
-6️⃣ Are there significant differences in shipping times based on order status? (Performing inferential statistical tests to detect variations.)
+6. Are there significant differences in shipping times based on order status? (Performing inferential statistical tests to detect variations.)
 
 ## 🛠️ Methods Used
 
