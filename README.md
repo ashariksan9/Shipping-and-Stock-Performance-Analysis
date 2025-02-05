@@ -162,9 +162,12 @@ Our analysis reveals that while shipping processes are functional, significant i
 
 ## ✍️ Contact
 
-📌 Muhammad Ashar Ihsan
+**Muhammad Ashar Ihsan**
 
 📧 Email: ashar4iksan@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/muhammadasharihsan
+
+📌 Portfolio: https://ashariksan9.github.io/Github_Portfolio
+
 
